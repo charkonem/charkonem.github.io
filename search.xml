@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[music]]></title>
+    <url>%2F2019%2F05%2F06%2Fmusic%2F</url>
+    <content type="text"><![CDATA[document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[仅仅是个测试]]></title>
+    <url>%2F2019%2F05%2F04%2Fjust-a-test%2F</url>
+    <content type="text"><![CDATA[那么这儿是内容部分，我们可以参考 Hexo 官网 大标题这是一级标题这是另一级标题，创建代码块还是标题标题标题！文章描述和阅读更多内容似乎只能两者取其一 12$ hexo new "My New Post"$ hexo server 颜色部分：next/source/css/_custom/custom.styl 站点配置文件 主题配置文件 站点配置文件 主题配置文件 当然还有密码部分，可添加”password” 分割线测试：文字部分 文字部分 空行测试：文字部分文字部分 饮用内容 居中 右对齐 更改字体大小和颜色 待办事项 未完成 表情符号：😊 font icons 雪花 雪花变大 33% 雪花两倍大 引用文字 选项卡 1选项卡 2选项卡 3这是选项卡 1 这是选项卡 2 qqq 这是选项卡 3 sss 1. 测试 1*/+/- 1 字体 加粗 显示字体 斜体 显示字体 加粗并斜体 显示这样来 删除一段文本 动物 水生动物陆生动物 猴子人 程序猿攻城狮产品狗 //这里需要注意，没有空行间隔，忽略降级引用标记射鸡虱 //这里需要注意，没有空行间隔，忽略降级引用标记 两栖类动物 大鳄鱼唐老鸭 两个回车结束引用,不在引用范围内了！ 表格 左对齐 右对齐 居中 Computer 5000 元 1台 Phone 1999 元 1部 jksf skdjfh fsh 链接自识别: https://love.ofind.cn/ document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
+      <categories>
+        <category>新测试</category>
+        <category>写作</category>
+      </categories>
+      <tags>
+        <tag>起点,新开始</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F05%2F02%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post12$ hexo new "My New Post"$ hexo server More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
+      <tags>
+        <tag>PS3</tag>
+        <tag>Games</tag>
+      </tags>
+  </entry>
+</search>
