@@ -1845,7 +1845,7 @@ pre .javascript .function {
 }
 .site-state-item {
   display: inline-block;
-  padding: 0 15px;
+  padding: 8px 28px;
   border-left: 1px solid #eee;
 }
 .site-state-item:first-child {
@@ -1905,7 +1905,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1137ff;
+  background: #4b8500;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3153,4 +3153,9 @@ span#inline-toc {
   padding: 0.05em 0.4em;
   margin: 2px 5px 2px 0px;
   line-height: 1.5;
+}
+.site-state-item {
+  display: inline-block;
+  padding: 0px 21px;
+  border-left: 1px solid #eee;
 }
